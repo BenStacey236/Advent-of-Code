@@ -1,4 +1,4 @@
-filePath = 'Day1/Day1Input.txt'
+filePath = '2024/Day1/Day1Input.txt'
 
 list1: list[int] = []
 list2: list[int] = []
